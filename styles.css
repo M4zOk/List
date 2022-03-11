@@ -1,0 +1,41 @@
+.wrapper {
+    text-align: center;
+    background: darkcyan;
+}
+
+.button {
+    position: center;
+
+}
+
+.checkbox{
+    position: center;
+}
+
+.left{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.chebx{
+    flex: 0 1 auto; 
+    text-align: left;
+}
+
+.mtxt{
+    text-align: center;
+    color: aliceblue;
+    background: darkcyan;
+}
+
+.box-1 {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    background-color: darkcyan;
+    font-size: 50px;
+    color: aliceblue;
+}
